@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Infograma</string>
+
+    <string name="correo">Correo</string>
+    <string name="nombre">Nombre</string>
+    <string name="usuario">Ususario</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="confirmeContrasena">Confirme Contraseña</string>
+    <string name="Login">Unete</string>
+    <string name="title_crear_cuenta">Crear Cuenta</string>
+    <string name="carlos_kevin_cardview">Kevin Ramos</string>
+    <string name="hace_cardview">Hace</string>
+    <string name="dias_cardview">4 dias</string>
+    <string name="me_gusta_cardview">10 Me gusta</string>
+    <string name="buscar_item">Buscar</string>
+    <string name="home_item">Home</string>
+    <string name="yo_item">Yo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hola Mundo Buscar</string>
+    <string name="hello_blan_fragment">Hola Mundo Yo</string>
+    <string name="title_home_fragment">Home</string>
+    <string name="text_megusta_image_detail">me gusta</string>
+    <string name="text_cantidad_megusta_image_detail">10</string>
+    <string name="text_title_image_detail">"Todos copas en la playa"</string>
+    <string name="text_content_image_detail">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</string>
+    <string name="cristhian_daniel_cardview">Cristhian_Daniel_cardview</string>
+    <string name="transitionName_imageCardView">transitionName_imageCardView</string>
+
+</resources>
